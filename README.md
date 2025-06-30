@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/2e805827-3365-4088-ab17-b183b67ca162)
-
+<img src="[https://github.com/your-url](https://github.com/user-attachments/assets/2e805827-3365-4088-ab17-b183b67ca162)" width="300" />
 
 ## Hi there 👋 I am Yuvan
 
