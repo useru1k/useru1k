@@ -1,7 +1,5 @@
 ## Hi there 👋 I am Yuvan
 
-$ echo "Hello, GitHub"
-
 - 🌱 **I’m currently learning** Cybersecurity, React.js
 - 🔭 **I’m currently working on** Recon CLI Tool and MERN project.
 
