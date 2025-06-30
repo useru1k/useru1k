@@ -1,4 +1,7 @@
 $ whoami
+👋 Hi, I’m Yuvan Krishna
+
+$ whoami
 ## Hi there 👋 I am Yuvan
 
 - 🌱 **I’m currently learning** Cybersecurity, React.js
