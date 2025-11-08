@@ -3,6 +3,9 @@
 - 🌱 **I’m currently learning** Cybersecurity, React.js
 - 🔭 **I’m currently working on** Recon CLI Tool and MERN project.
 
+### 🛠️ Currently Working On:
+- Automated Email Threat Analysis System using FastAPI, VirusTotal, and AbuseIPDB
+
 <!--
 **useru1k/useru1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
