@@ -1,10 +1,12 @@
 ## Hi there 👋 I am Yuvan
-
-- 🌱 **I’m currently learning** Cybersecurity, React.js
-- 🔭 **I’m currently working on** Recon CLI Tool and MERN project.
+I’m a cybersecurity enthusiast with a growing expertise in both the technical and analytical sides of information security. With hands-on experience in **programming, Linux systems, and security operations.** I’m passionate about bridging the gap between **software development and cybersecurity defense** and applying my knowledge to real-world challenges.
 
 ### 🛠️ Currently Working On:
 - Automated Email Threat Analysis System using FastAPI, VirusTotal, and AbuseIPDB [Navigate](https://github.com/useru1k/email-analysis)
+
+### 🌱 Currently Learning On:
+- Security Operations | CyberSecurity
+- Incident Response (SOC tools, Playbooks, SIEMs like Splunk, ELK)
 
 <!--
 **useru1k/useru1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
