@@ -1,5 +1,5 @@
 ## Hi there 👋 I am Yuvan
-I’m a cybersecurity enthusiast with a growing expertise in both the technical and analytical sides of information security. With hands-on experience in **programming, Linux systems, and security operations.** I’m passionate about bridging the gap between **software development and cybersecurity defense** and applying my knowledge to real-world challenges.
+I’m a Cybersecurity Enthusiast with a growing expertise in both the technical and analytical sides of information security. With hands-on experience in **programming, Linux systems, and security operations.** I’m passionate about bridging the gap between **software development and cybersecurity defense** and applying my knowledge to real-world challenges.
 
 ### 🛠️ Currently Working On:
 - Automated Email Threat Analysis System using FastAPI, VirusTotal, and AbuseIPDB [Navigate](https://github.com/useru1k/email-analysis)
