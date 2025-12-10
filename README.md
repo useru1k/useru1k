@@ -5,7 +5,7 @@ I’m a Cybersecurity Enthusiast with a growing expertise in both the technical 
 - Automated Email Threat Analysis System using FastAPI, VirusTotal, and AbuseIPDB [Navigate](https://github.com/useru1k/email-analysis)
 
 ### 🌱 Currently Learning On:
-- Security Operations | Memory Forensics | CyberSecurity 
+- Security Operations | Memory Forensics | CyberSecurity | Socket Programming
 - Incident Response (SOC tools, Playbooks, SIEMs like Splunk, ELK)
 
 <!--
